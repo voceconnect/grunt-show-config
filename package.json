@@ -1,0 +1,41 @@
+{
+    "name": "grunt-show-config",
+    "description": "Show configuration targets",
+    "keywords": [
+        "gruntplugin"
+    ],
+    "version": "0.2.0",
+    "homepage": "https://github.com/voceconnect/grunt-show-config",
+    "author": {
+        "name": "Mark Parolisi",
+        "url": "http://markparolisi.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:voceconnect/grunt-show-config.git"
+    },
+    "bugs": {
+        "url": "https://github.com/voceconnect/grunt-show-config/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "main": "Gruntfile.js",
+    "scripts": {
+        "test": "grunt"
+    },
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "devDependencies": {
+        "grunt-contrib-jshint": "0.3.x",
+        "grunt": "~0.4.x"
+    },
+    "peerDependencies": {
+        "grunt": "~0.4.0"
+    },
+    "dependencies": {}
+}
