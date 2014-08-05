@@ -1,7 +1,8 @@
 /**
  * show-config
  * @usage
- *  peon show-config
+ *  grunt show-config
+ *  grunt show-config:task
  * @param grunt
  * @returns {*}
  */
