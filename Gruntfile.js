@@ -1,7 +1,7 @@
 /*
  * grunt-show-config
  *
- * Copyright (c) 2013 Mark Parolisi
+ * Copyright (c) 2014 Voce Communications
  * Licensed under the MIT license.
  */
 

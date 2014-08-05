@@ -32,5 +32,6 @@ grunt show-config:jshint
 
 ## Release History
 
+ * 2014-08-05   0.2.1    Added option to write config to file
  * 2013-07-15   0.2.0    Clean up for public release
 

@@ -3,7 +3,6 @@
  * @usage
  *  grunt show-config
  *  grunt show-config:task
- * @param grunt
  * @returns {*}
  */
 /*global module*/
